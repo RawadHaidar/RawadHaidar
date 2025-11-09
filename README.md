@@ -4,7 +4,6 @@
 <p>
 🎓 CCE graduate since 2020<br>
 💻 Passionate about Full Stack Software Development and Machine Learning<br>
-🧠 Currently learning more about Python, PHP, SQL, JS, HTML, and CSS<br>
 🚀 With a strong interest in sensors, electronics, and processor development. I strive to stay at the forefront of innovation and Digital Transformation.<br>
 
 
@@ -45,3 +44,5 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
   </a> 
 </p>
+
+🧠 Currently learning more about Python, PHP, SQL, JS, HTML, and CSS<br>
