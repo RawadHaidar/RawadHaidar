@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rawad Haidar</h1>
+<h1 align="center">Hi 👋, I'm Rawad</h1>
 <h3 align="center">A passionate software engineer from Lebanon</h3>
 
 - 📫 How to reach me **rawadahaidar@gmail.com**
