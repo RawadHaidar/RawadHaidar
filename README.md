@@ -8,9 +8,10 @@
 ✨ Love continuous learning and exploring new technologies
 </p>
 
-How to reach me 
+
 <a href="mailto:rawadahaidar@gmail.com" target="_blank" rel="noreferrer">
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" width="20" height="20"/> 
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" width="20" height="20"/>
+  How to reach me 
   rawadahaidar@gmail.com
 </a>
 
