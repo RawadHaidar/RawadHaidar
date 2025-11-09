@@ -43,9 +43,8 @@
 
 🧠 Currently learning more about Python, PHP, SQL, JS, HTML, and CSS<br>
 
-<br>
-<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" width="20" height="20"/>
- How to reach me 
+
+✉️ How to reach me 
 <a href="mailto:rawadahaidar@gmail.com" target="_blank" rel="noreferrer">rawadahaidar@gmail.com</a>
 </p>
 
