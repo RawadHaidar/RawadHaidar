@@ -51,5 +51,5 @@
 
 📂 Featured Projects:
 
-##Qitaby: 
+Qitaby: 
 A Flutter-WebApp based school book marketplace app designed to connect students and parents for buying and selling school books. View Qitaby: https://qitaby-ad7ac.web.app/
