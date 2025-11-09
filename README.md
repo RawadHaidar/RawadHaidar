@@ -6,15 +6,15 @@
 💻 Passionate about web development, problem solving & building useful projects<br>
 🚀 Currently learning more about frontend / backend<br>
 ✨ Love continuous learning and exploring new technologies
-</p>
+
 
 <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" width="20" height="20"/>
 How to reach me 
 <a href="mailto:rawadahaidar@gmail.com" target="_blank" rel="noreferrer">
-  
+
   rawadahaidar@gmail.com
 </a>
-
+</p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
