@@ -43,12 +43,11 @@
 
 🧠 Currently learning more about Python, PHP, SQL, JS, HTML, and CSS<br>
 
-
-✉️ How to reach me 
-<a href="mailto:rawadahaidar@gmail.com" target="_blank" rel="noreferrer">rawadahaidar@gmail.com</a>
-</p>
-
 📂 Featured Projects:
 
 Qitaby: 
 A Flutter-WebApp based school book marketplace app designed to connect students and parents for buying and selling school books. View Qitaby: https://qitaby-ad7ac.web.app/
+
+✉️ How to reach me 
+<a href="mailto:rawadahaidar@gmail.com" target="_blank" rel="noreferrer">rawadahaidar@gmail.com</a>
+</p>
