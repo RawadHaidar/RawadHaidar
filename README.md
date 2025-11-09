@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Rawad</h1>
 <h3 align="center">A passionate software engineer from Lebanon</h3>
 
-<p align="center">
+<p>
 🎓 CS student graduated in 2025<br>
 💻 Passionate about web development, problem solving & building useful projects<br>
 🚀 Currently learning more about frontend / backend<br>
 ✨ Love continuous learning and exploring new technologies
 </p>
 
-📫 How to reach me 
+How to reach me 
 <a href="mailto:rawadahaidar@gmail.com" target="_blank" rel="noreferrer">
   <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" width="20" height="20"/> 
   rawadahaidar@gmail.com
