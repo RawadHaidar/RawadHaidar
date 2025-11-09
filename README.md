@@ -7,10 +7,6 @@
 🚀 With a strong interest in sensors, electronics, and processor development. I strive to stay at the forefront of innovation and Digital Transformation.<br>
 
 
-<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" width="20" height="20"/>
- How to reach me 
-<a href="mailto:rawadahaidar@gmail.com" target="_blank" rel="noreferrer">rawadahaidar@gmail.com</a>
-</p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
@@ -46,3 +42,9 @@
 </p>
 
 🧠 Currently learning more about Python, PHP, SQL, JS, HTML, and CSS<br>
+
+<br>
+<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" width="20" height="20"/>
+ How to reach me 
+<a href="mailto:rawadahaidar@gmail.com" target="_blank" rel="noreferrer">rawadahaidar@gmail.com</a>
+</p>
