@@ -9,11 +9,8 @@
 
 
 <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" width="20" height="20"/>
-How to reach me 
-<a href="mailto:rawadahaidar@gmail.com" target="_blank" rel="noreferrer">
-
-  rawadahaidar@gmail.com
-</a>
+ How to reach me 
+<a href="mailto:rawadahaidar@gmail.com" target="_blank" rel="noreferrer">rawadahaidar@gmail.com</a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
