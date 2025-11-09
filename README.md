@@ -2,10 +2,10 @@
 <h3 align="center">A passionate software engineer from Lebanon</h3>
 
 <p>
-🎓 CS student graduated in 2025<br>
-💻 Passionate about web development, problem solving & building useful projects<br>
-🚀 Currently learning more about frontend / backend<br>
-✨ Love continuous learning and exploring new technologies<br>
+🎓 CCE graduate since 2020<br>
+💻 Passionate about Full Stack Software Development and Machine Learning<br>
+🧠 Currently learning more about Python, PHP, SQL, JS, HTML, and CSS<br>
+🚀 With a strong interest in sensors, electronics, and processor development. I strive to stay at the forefront of innovation and Digital Transformation.<br>
 
 
 <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" width="20" height="20"/>
