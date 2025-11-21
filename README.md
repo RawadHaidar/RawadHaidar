@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Rawad</h1>
+<h1 align="center">Rawad Haidar</h1>
 <h3 align="center">A passionate software engineer from Lebanon</h3>
 
 <p>
 🎓 CCE graduate since 2020<br>
 💻 Passionate about Full Stack Software Development and Machine Learning<br>
-🚀 With a strong interest in sensors, electronics, and processor development. I strive to stay at the forefront of innovation and Digital Transformation.<br>
+🚀 With a strong interest in sensors, electronics, and microcontrollers. I strive to stay at the forefront of innovation and Digital Transformation.<br>
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Software Tools:</h3>
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
@@ -41,7 +41,7 @@
   </a> 
 </p>
 
-🧠 Currently learning more about Python, PHP, SQL, JS, HTML, and CSS<br>
+🧠 Currently learning more about full-Stack software development best practices using Python, PHP, SQL, JS, HTML, and CSS<br>
 
 📂 Featured Projects:
 
